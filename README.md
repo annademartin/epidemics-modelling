@@ -33,13 +33,13 @@ Starting from the classic SIR framework, the assignments explore how extensions 
 
 The assignments involved implementing models, running simulations using synthetic or provided data, and producing analytical reports with interpretations and insights.
 
-Project 2 was co-authored with @jr0011 . See also [her repository](https://github.com/jr0011/sir-model) 
+Project 2 was co-authored with [Julia Rotko](https://github.com/jr0011). See also [her repository](https://github.com/jr0011/sir-model).
 
 ---
 
 ## Key Topics and Tools
 
-* Compartmental epidemic models (SIR, SEIR variants)
+* Compartmental epidemic models (SIR and variants)
 * Ordinary differential equations (ODEs)
 * Stochastic simulation
 * Network models
