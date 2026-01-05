@@ -33,7 +33,7 @@ Starting from the classic SIR framework, the assignments explore how extensions 
 
 The assignments involved implementing models, running simulations using synthetic or provided data, and producing analytical reports with interpretations and insights.
 
-Project 2 was co-authored with @jr0011.
+Project 2 was co-authored with @jr0011 . See also [her repository](https://github.com/jr0011/sir-model) 
 
 ---
 
@@ -45,6 +45,4 @@ Project 2 was co-authored with @jr0011.
 * Network models
 * Data visualization and exploratory analysis
 
----
 
-*This repository is intended for educational and illustrative purposes.*
